@@ -1,0 +1,101 @@
+.footer {
+  z-index: 0;
+  display: flex;
+
+  max-width: 100%;
+margin-top: 500px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+
+  max-width: 1920px;
+}
+.down_logo {
+  width: 74.22px;
+  height: 74.22px;
+  margin-left: 550px;
+  padding-left: 150px;
+  transform: rotate(-360deg);
+}
+.down_logo_text {
+  width: 136.08px;
+  height: 79.26px;
+  margin-left: 100px;
+  margin-top: 25px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 80px;
+  color: #99baed;
+}
+.down_text {
+  width: 700px;
+  height: 76px;
+  margin-top: 120px;
+  margin-left: -400px;
+
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.facebook1 {
+  z-index: 0;
+  width: 67px;
+  height: 67px;
+  margin-top: 250px;
+  margin-left: -550px;
+}
+.facebook2 {
+  z-index: 1;
+  margin-top: -55px;
+  margin-left: 25px;
+}
+.twitter_1 {
+  width: 67px;
+  height: 67px;
+  margin-top: 250px;
+  margin-left: 50px;
+}
+.twitter_2 {
+  margin-left: 15px;
+  margin-top: -50px;
+}
+.google_1 {
+  width: 67px;
+  height: 67px;
+  margin-left: 50px;
+  margin-top: 250px;
+}
+.google_2 {
+  margin-top: -50px;
+  margin-left: 20px;
+}
+.End_line {
+  width: 1362px;
+  height: 0px;
+  margin-top: 700px;
+  margin-left: -1900px;
+
+  border: 1px solid #99baed;
+}
+/*.end_right_Line {
+  width: 432.81px;
+  height: 736.5px;
+  margin-left: 500px;
+
+  margin-top: 200px;
+  transform: rotate(0deg);
+}
+.footer_end_left {
+  width: 432.81px;
+  height: 736.5px;
+  margin-top: 200px;
+  margin-left: -550px;
+}/*

@@ -1,0 +1,363 @@
+/* ===================== */
+main {
+  max-width: 1920px;
+
+  margin: auto;
+}
+/* ===================== */
+/* ===================== */
+/* ===================== */
+
+.left_up {
+  /* done */
+  margin-left: -500px;
+  word-wrap: break-word;
+  width: 650px;
+  height: 400px;
+  padding-left: 188px;
+  padding-top: 273px;
+  display: inline-block;
+  color: #0e0d0c;
+  position: absolute;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 100.2px;
+}
+.colortext {
+  color: #fbb400;
+  font-family: "Catamaran";
+  font-style: normal;
+}
+.right_up {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 200px;
+  width: 1234px;
+  height: 821px;
+}
+.left_up_down {
+  /* done */
+  width: 526px;
+  height: 114px;
+  margin-left: -350px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.Started {
+  /* done */
+  position: relative;
+  width: 188px;
+  height: 75px;
+  margin-top: 30px;
+  margin-left: 39px;
+  z-index: 1;
+  background: #99baed;
+  border-radius: 20px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.barber1 {
+  /* done */
+
+  margin-left: -470px;
+  width: 968px;
+  height: 968px;
+  margin-top: 50px;
+  z-index: 0;
+}
+
+.middle_up {
+  width: 377px;
+  height: 105px;
+  margin-left: 1199px;
+  margin-top: -900px;
+
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 105px;
+
+  letter-spacing: 0.03em;
+
+  color: #163561;
+}
+.middle_text_up {
+  /* done */
+  width: 526px;
+  height: 114px;
+  margin-top: 100px;
+  margin-left: 1100px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.middle_text_down {
+  /* done */
+  width: 526px;
+  height: 114px;
+  margin-top: 50px;
+  margin-left: 1100px;
+
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+  display: inline-block;
+}
+.b_shadow {
+  /* done? */
+  width: 188px;
+  height: 75px;
+  z-index: 0;
+  margin-top: -65px;
+  margin-left: 50px;
+  background: rgba(153, 186, 237, 0.5);
+  filter: blur(25px);
+  border-radius: 20px;
+}
+.middle_button {
+  /* done */
+  width: 188px;
+  height: 75px;
+  margin-top: 50px;
+  margin-left: 1100px;
+  color: #ffffff;
+  background: #99baed;
+  border-radius: 20px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  z-index: 1;
+}
+.middle_button_shadow {
+  /* done */
+  width: 188px;
+  height: 75px;
+  margin-top: -65px;
+  margin-left: 1100px;
+  z-index: 0;
+  background: rgba(153, 186, 237, 0.5);
+  filter: blur(25px);
+  border-radius: 20px;
+}
+.high_end {
+  /* done */
+  width: 387px;
+  height: 164px;
+  margin-top: 250px;
+  margin-left: 600px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 82px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #163561;
+}
+.high_end_left {
+  /* done */
+  width: 441px;
+  height: 533px;
+  margin-top: 120px;
+  margin-left: 100px;
+  padding-top: 20px;
+  background: #99baed;
+  border-radius: 29px;
+}
+.high_end_center {
+  /* done */
+  width: 441px;
+  height: 533px;
+  padding-top: 20px;
+  margin-top: -570px;
+  margin-left: 600px;
+  background: #fafbff;
+  box-shadow: 0px 5px 0px #99baed;
+  border-radius: 29px;
+}
+.high_end_right {
+  /* done */
+  z-index: 0;
+  padding-top: 25px;
+  width: 441px;
+  height: 533px;
+  margin-top: -1935px;
+  margin-left: 1100px;
+  background: #fafbff;
+  box-shadow: 0px 5px 0px #99baed;
+  border-radius: 29px;
+}
+.high_end_left_picture {
+  /* done */
+  z-index: 1;
+  width: 110px;
+  height: 130px;
+  margin-left: 150px;
+  margin-top: 2px;
+  padding-bottom: -10px;
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.left_picture {
+  /* done */
+  margin-top: 10px;
+  margin-left: 10px;
+  transform: rotate(-30deg);
+}
+.high_end_left_up_text {
+  /* done */
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 52px;
+  margin-top: 100px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+.high_end_left_down_text {
+  /* done */
+  word-wrap: break-word;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  margin-top: 20px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  opacity: 0.65;
+}
+.high_end_center_picture {
+  /* done */
+
+  width: 103px;
+  height: 126px;
+  margin-left: 170px;
+  margin-top: 50px;
+
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.high_end_center_up_text {
+  /* done */
+  width: 206px;
+  height: 52px;
+  padding-top: 245px;
+  margin-top: -150px;
+  margin-left: 120px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 52px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #163561;
+}
+.high_end_center_down_text {
+  /* done */
+  width: 359px;
+  height: 114px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.high_end_right_picture {
+  /* done */
+  width: 103px;
+  height: 100px;
+  text-align: center;
+  padding-top: 25px;
+  margin-left: 170px;
+  margin-top: 50px;
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.high_end_right_up_text {
+  /* done */
+  width: 230px;
+  height: 52px;
+  margin-top: 70px;
+  margin-left: 120px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 52px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #163561;
+}
+.high_end_right_down_text {
+  /* done */
+  width: 359px;
+  height: 114px;
+  margin-top: 20px;
+  margin-left: 30px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+
+.History_right {
+  /* position: absolute; */
+  width: 432.81px;
+  height: 736.5px;
+  /* left: 2043px;
+top: 1092px; */
+}
+.History_left {
+  position: absolute;
+  width: 432.81px;
+  height: 736.5px;
+  /* left: 0px;
+top: 1041px; */
+}

@@ -1,0 +1,47 @@
+.header {
+  max-width: 100%;
+}
+.logo {
+  margin-top: 70px;
+  margin-left: 10px;
+}
+.scissors {
+  position: absolute;
+}
+.logo1 {
+  position: relative;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  margin-top: -50px;
+  margin-left: 70px;
+  color: #99baed;
+}
+.menu {
+  position: relative;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+.btn-group {
+  width: 93px;
+  height: 138px;
+  text-align: justify;
+  align-items: center;
+}
+.buttons_right {
+  margin-left: 800px;
+  margin-top: -100px;
+}
+.bell {
+  margin-top: -40px;
+  margin-left: 100px;
+}
+.bell_1 {
+  margin-top: -10px;
+  margin-left: 10px;
+}
+.btn-lg {
+  margin-left: 100px;
+  margin-top: -60px;
+}
